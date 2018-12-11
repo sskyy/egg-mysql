@@ -1,7 +1,7 @@
 {
-  "name": "egg-mysql",
-  "version": "3.0.0",
-  "description": "MySQL plugin for egg",
+  "name": "egg-mysql-pro",
+  "version": "3.0.1",
+  "description": "MySQL plugin for egg pro version",
   "eggPlugin": {
     "name": "mysql"
   },
@@ -13,7 +13,7 @@
     "database"
   ],
   "dependencies": {
-    "ali-rds": "^3.0.1"
+    "ali-rds-pro": "^3.0.1"
   },
   "devDependencies": {
     "autod": "^3.0.1",
